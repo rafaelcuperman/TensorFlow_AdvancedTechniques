@@ -13,3 +13,9 @@ TensorFlow: Advanced Techniques Specialization by deeplearning.ai
 2. Custom Training
 3. Graph Mode
 4. Distributed Training
+
+## Course 3: Advanced Computer Vision with TensorFlow
+1. Introduction to Computer Vision
+2. Object Detection (Including TensorFlow Object Detection API)
+3. Image Segmentation
+4. Visualization and Interpretability

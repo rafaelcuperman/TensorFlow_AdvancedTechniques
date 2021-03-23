@@ -19,3 +19,9 @@ TensorFlow: Advanced Techniques Specialization by deeplearning.ai
 2. Object Detection (Including TensorFlow Object Detection API)
 3. Image Segmentation
 4. Visualization and Interpretability
+
+## Course 4: Generative Deep Learning with TensorFlow
+1. Style Transfer
+2. AutoEncoders
+3. Variational AutoEncoders
+4. GANs
